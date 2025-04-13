@@ -61,7 +61,7 @@ To get a local copy up and running follow these simple steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/task-manager-project.git
+git clone https://github.com/iamjohncaleb/Personal-Taskmanager-App.git
 
 # Navigate into the project directory
 cd task-manager-project
@@ -156,23 +156,16 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 📧 Contact
 
 **Developer:** Caleb John
-**Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
+**Twitter:** [@iamjohncalebb](https://x.com/iamjohncalebb)  
 **Portfolio:** [@myportfolio](https://recent-resume.vercel.app/) 
 
 ---
 
-## 📌 Future Improvements
+<!-- ## 📌 Future Improvements
 
 - Task edit functionality  
 - Task categories and filters  
 - User authentication  
 - Deploy to Vercel or Netlify  
 - Persistent storage with localStorage or a backend API  
-
----
-
-```
-
----
-
-## ✅ Would you like me to convert this into a ready-to-paste `README.md` file too? I can generate the file content for you to drop into your project root 🚀
+ -->
