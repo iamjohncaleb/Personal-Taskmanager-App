@@ -138,15 +138,6 @@ This will generate a `dist/` directory with optimized production-ready files.
 
 ---
 
-## 📊 Web Vitals (Optional)
-
-This project optionally uses `web-vitals` to measure performance metrics like CLS, FID, FCP, etc.  
-**To remove:**
-- Delete `src/reportWebVitals.ts`
-- Remove any imports or calls to `reportWebVitals()` in `main.tsx`
-
----
-
 ## 🙌 Acknowledgments
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
