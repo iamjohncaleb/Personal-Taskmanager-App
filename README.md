@@ -12,17 +12,6 @@
   <img src="https://img.shields.io/badge/Web_Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Web Vitals" />
 </div>
 
----
-
-## 🛠️ Built With
-
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
-- [web-vitals](https://github.com/GoogleChrome/web-vitals) 
-
----
   <h3 align="center">📋 Personal Task Manager App </h3>
 </div>
 
