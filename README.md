@@ -2,12 +2,48 @@
   <br />
       <img src="https://github.com/iamjohncaleb/Personal-Taskmanager-App/blob/main/task%20manger%20app.jpg" alt="Project Banner">
 
-  <div>
-    <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/hardhat-F3BA2F?style=for-the-badge&logo=ethereum&logoColor=black" />
-  </div>
+# 📋 Personal Task Manager App
+
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Web_Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Web Vitals" />
+</div>
+
+---
+
+## 📸 Demo
+
+> **Live Preview:** _coming soon_
+
+---
+
+## 🚀 Features
+
+✅ Add new tasks with a description  
+✅ View a list of active tasks  
+✅ Delete tasks when completed  
+✅ Futuristic UI theme using **Tailwind CSS**  
+✅ Responsive design for mobile and desktop  
+✅ Type-safe components with **TypeScript**
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- [web-vitals](https://github.com/GoogleChrome/web-vitals) (optional)
+
+---
+
+## 📂 Project Structure
+
+
 
   <h3 align="center">Day 19 📅  Token Vesting Smart Contract </h3>
 </div>
