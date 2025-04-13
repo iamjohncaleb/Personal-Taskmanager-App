@@ -1,3 +1,17 @@
+<div align="center">
+  <br />
+      <img src="https://github.com/iamjohncaleb/Personal-Taskmanager-App/blob/main/task%20manger%20app.jpg" alt="Project Banner">
+
+  <div>
+    <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/hardhat-F3BA2F?style=for-the-badge&logo=ethereum&logoColor=black" />
+  </div>
+
+  <h3 align="center">Day 19 📅  Token Vesting Smart Contract </h3>
+</div>
+
 # 📋 Personal Task Manager App
 
 A sleek, futuristic-themed task management application built with **React**, **TypeScript**, and **Tailwind CSS**. The app allows users to add, view, and delete personal tasks, helping them stay organized and productive. This project was built as a practical TypeScript and React learning experience.
