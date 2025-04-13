@@ -1,12 +1,21 @@
+<div align="center">
+  <br />
+      <img src="https://github.com/iamjohncaleb/Personal-Taskmanager-App/blob/main/task%20manger%20app.jpg" alt="Project Banner">
+
 # 📋 Personal Task Manager App
 
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Web_Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Web Vitals" />
+</div>
+
+  <h3 align="center">📋 Personal Task Manager App </h3>
+</div>
+
 A sleek, futuristic-themed task management application built with **React**, **TypeScript**, and **Tailwind CSS**. The app allows users to add, view, and delete personal tasks, helping them stay organized and productive. This project was built as a practical TypeScript and React learning experience.
-
----
-
-## 📸 Demo
-
-> **Live Preview:** _coming soon_
 
 ---
 
@@ -126,15 +135,6 @@ This will generate a `dist/` directory with optimized production-ready files.
 | `web-vitals` import errors               | Ensure you’re using `onCLS`, `onFID`, etc. in `reportWebVitals.ts` |
 | TypeScript errors on new components      | Make sure to define proper types and interfaces       |
 | Tailwind classes not applying            | Check that `src/index.css` includes `@tailwind base;`, `@tailwind components;`, and `@tailwind utilities;` |
-
----
-
-## 📊 Web Vitals (Optional)
-
-This project optionally uses `web-vitals` to measure performance metrics like CLS, FID, FCP, etc.  
-**To remove:**
-- Delete `src/reportWebVitals.ts`
-- Remove any imports or calls to `reportWebVitals()` in `main.tsx`
 
 ---
 
