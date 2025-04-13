@@ -37,18 +37,11 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
-- [web-vitals](https://github.com/GoogleChrome/web-vitals) (optional)
+- [web-vitals](https://github.com/GoogleChrome/web-vitals) 
 
 ---
-
-## 📂 Project Structure
-
-
-
-  <h3 align="center">Day 19 📅  Token Vesting Smart Contract </h3>
+  <h3 align="center">📋 Personal Task Manager App </h3>
 </div>
-
-# 📋 Personal Task Manager App
 
 A sleek, futuristic-themed task management application built with **React**, **TypeScript**, and **Tailwind CSS**. The app allows users to add, view, and delete personal tasks, helping them stay organized and productive. This project was built as a practical TypeScript and React learning experience.
 
