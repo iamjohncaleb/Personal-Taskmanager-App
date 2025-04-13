@@ -14,23 +14,6 @@
 
 ---
 
-## 📸 Demo
-
-> **Live Preview:** _coming soon_
-
----
-
-## 🚀 Features
-
-✅ Add new tasks with a description  
-✅ View a list of active tasks  
-✅ Delete tasks when completed  
-✅ Futuristic UI theme using **Tailwind CSS**  
-✅ Responsive design for mobile and desktop  
-✅ Type-safe components with **TypeScript**
-
----
-
 ## 🛠️ Built With
 
 - [React](https://reactjs.org/)
@@ -44,12 +27,6 @@
 </div>
 
 A sleek, futuristic-themed task management application built with **React**, **TypeScript**, and **Tailwind CSS**. The app allows users to add, view, and delete personal tasks, helping them stay organized and productive. This project was built as a practical TypeScript and React learning experience.
-
----
-
-## 📸 Demo
-
-> **Live Preview:** _coming soon_
 
 ---
 
